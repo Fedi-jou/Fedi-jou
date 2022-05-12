@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Fedi 👋
 - 🔭 I’m currently a front-end web developer working with Reactjs , javascript ES6+ , CSS , html , mui , bootstrap , ...
 - 📫 How to reach me: fedijou@gmail.com 
 - 💬 Ask me about my Protfolio link if you are interested in future collaboration or any sort of work discussion .
